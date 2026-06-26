@@ -2,7 +2,8 @@
 
 A fast, lightweight product search and filter UI built with vanilla JavaScript, HTML, and CSS. No frameworks, no build step — just open `index.html` in a browser.
 
-![Dark mode product grid with search, category, price, and rating filters](https://placehold.co/1200x600/0f0f11/7c6ee8?text=facet)
+![facet UI](https://github.com/user-attachments/assets/8f8b5c24-1a93-46c1-994d-f1fd3af7ee2d)
+
 
 ## Features
 
